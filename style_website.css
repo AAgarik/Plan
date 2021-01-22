@@ -1,0 +1,27 @@
+h1{
+    font-family: Courier;
+    font-size: 4em;
+    margin:0;
+    text-align: center;
+}
+.plan_list{
+    border: 1px #000 solid;
+    font-family: Courier;
+    margin:0 auto
+}
+.head{
+    color: #565;
+    background-color: #000;
+    text-align: center;
+}
+tr td{
+    border: 1px #000 solid
+}
+body{
+    background: #565
+}
+.marker{
+    font-size: 2.3em;
+    margin:-20px;
+    padding:0 0 7px 0;
+}
